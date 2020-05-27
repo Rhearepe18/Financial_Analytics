@@ -10,7 +10,7 @@ import yfinance as yf
 import pandas as pd
 
 #Select portfolio of stocks
-stocks = ['AAPL']  #can add more to portfolio later...
+stocks = ['TSLA']  #can add more to portfolio later...
 
 
 #For example, AAPL stock data from 2000 to 2020  
